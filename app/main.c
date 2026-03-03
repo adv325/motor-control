@@ -11,7 +11,7 @@
 int main()
 {
     // Board Setup
-    //board_init();
+    //bsp_board_init();
 
     // Peripherals
     gpio_init();

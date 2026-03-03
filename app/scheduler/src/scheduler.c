@@ -15,7 +15,7 @@ status_t scheduler_init(timed_task_t *tasks, uint8_t num_tasks)
 
 void scheduler_run()
 {
-    printf("scheduler_run\n");
+    //printf("%s\n", __func__);
 
     uint32_t now = counter_100us;
 

@@ -4,7 +4,7 @@
 
 status_t adc_driver_init()
 {
-    printf("adc_driver_init\n");
+    printf("%s\n", __func__);
 
     // Enable ADC
     //ADC1->CR |= ADC_CR_EN_Msk;
