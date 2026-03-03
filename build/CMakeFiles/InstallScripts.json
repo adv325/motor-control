@@ -1,0 +1,27 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/A/A/Programming/C/motor_control/build/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/common/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/drivers/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/drivers/gpio/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/drivers/adc/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/drivers/can/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/drivers/spi/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/drivers/pwm/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/hal/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/hal/gpio/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/hal/adc/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/hal/can/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/hal/pwm/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/hal/spi/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/services/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/services/gate_driver/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/services/system_basis_chip/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/app/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/app/scheduler/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/app/tasks/cmake_install.cmake",
+		"/home/A/A/Programming/C/motor_control/build/app/timer/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

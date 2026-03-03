@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/drivers/gpio/inc -I/home/A/A/Programming/C/motor_control/common/. -o drivers/gpio/CMakeFiles/drv_gpio.dir/src/drv_gpio.c.o -c /home/A/A/Programming/C/motor_control/drivers/gpio/src/drv_gpio.c",
+  "file": "/home/A/A/Programming/C/motor_control/drivers/gpio/src/drv_gpio.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/drivers/gpio/CMakeFiles/drv_gpio.dir/src/drv_gpio.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/drivers/adc/inc -I/home/A/A/Programming/C/motor_control/common/. -o drivers/adc/CMakeFiles/drv_adc.dir/src/drv_adc.c.o -c /home/A/A/Programming/C/motor_control/drivers/adc/src/drv_adc.c",
+  "file": "/home/A/A/Programming/C/motor_control/drivers/adc/src/drv_adc.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/drivers/adc/CMakeFiles/drv_adc.dir/src/drv_adc.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/drivers/can/inc -I/home/A/A/Programming/C/motor_control/common/. -o drivers/can/CMakeFiles/drv_can.dir/src/drv_can.c.o -c /home/A/A/Programming/C/motor_control/drivers/can/src/drv_can.c",
+  "file": "/home/A/A/Programming/C/motor_control/drivers/can/src/drv_can.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/drivers/can/CMakeFiles/drv_can.dir/src/drv_can.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/drivers/spi/inc -I/home/A/A/Programming/C/motor_control/common/. -o drivers/spi/CMakeFiles/drv_spi.dir/src/drv_spi.c.o -c /home/A/A/Programming/C/motor_control/drivers/spi/src/drv_spi.c",
+  "file": "/home/A/A/Programming/C/motor_control/drivers/spi/src/drv_spi.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/drivers/spi/CMakeFiles/drv_spi.dir/src/drv_spi.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/drivers/pwm/inc -I/home/A/A/Programming/C/motor_control/common/. -o drivers/pwm/CMakeFiles/drv_pwm.dir/src/drv_pwm.c.o -c /home/A/A/Programming/C/motor_control/drivers/pwm/src/drv_pwm.c",
+  "file": "/home/A/A/Programming/C/motor_control/drivers/pwm/src/drv_pwm.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/drivers/pwm/CMakeFiles/drv_pwm.dir/src/drv_pwm.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/hal/gpio/inc -I/home/A/A/Programming/C/motor_control/drivers/gpio/inc -I/home/A/A/Programming/C/motor_control/common/. -o hal/gpio/CMakeFiles/hal_gpio.dir/src/hal_gpio.c.o -c /home/A/A/Programming/C/motor_control/hal/gpio/src/hal_gpio.c",
+  "file": "/home/A/A/Programming/C/motor_control/hal/gpio/src/hal_gpio.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/hal/gpio/CMakeFiles/hal_gpio.dir/src/hal_gpio.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/hal/adc/inc -I/home/A/A/Programming/C/motor_control/drivers/adc/inc -I/home/A/A/Programming/C/motor_control/common/. -o hal/adc/CMakeFiles/hal_adc.dir/src/hal_adc.c.o -c /home/A/A/Programming/C/motor_control/hal/adc/src/hal_adc.c",
+  "file": "/home/A/A/Programming/C/motor_control/hal/adc/src/hal_adc.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/hal/adc/CMakeFiles/hal_adc.dir/src/hal_adc.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/hal/can/inc -I/home/A/A/Programming/C/motor_control/drivers/can/inc -I/home/A/A/Programming/C/motor_control/common/. -o hal/can/CMakeFiles/hal_can.dir/src/hal_can.c.o -c /home/A/A/Programming/C/motor_control/hal/can/src/hal_can.c",
+  "file": "/home/A/A/Programming/C/motor_control/hal/can/src/hal_can.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/hal/can/CMakeFiles/hal_can.dir/src/hal_can.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/hal/pwm/inc -I/home/A/A/Programming/C/motor_control/drivers/pwm/inc -I/home/A/A/Programming/C/motor_control/common/. -o hal/pwm/CMakeFiles/hal_pwm.dir/src/hal_pwm.c.o -c /home/A/A/Programming/C/motor_control/hal/pwm/src/hal_pwm.c",
+  "file": "/home/A/A/Programming/C/motor_control/hal/pwm/src/hal_pwm.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/hal/pwm/CMakeFiles/hal_pwm.dir/src/hal_pwm.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/hal/spi/inc -I/home/A/A/Programming/C/motor_control/drivers/spi/inc -I/home/A/A/Programming/C/motor_control/common/. -o hal/spi/CMakeFiles/hal_spi.dir/src/hal_spi.c.o -c /home/A/A/Programming/C/motor_control/hal/spi/src/hal_spi.c",
+  "file": "/home/A/A/Programming/C/motor_control/hal/spi/src/hal_spi.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/hal/spi/CMakeFiles/hal_spi.dir/src/hal_spi.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/services/gate_driver/inc -o services/gate_driver/CMakeFiles/gate_driver.dir/src/gate_driver.c.o -c /home/A/A/Programming/C/motor_control/services/gate_driver/src/gate_driver.c",
+  "file": "/home/A/A/Programming/C/motor_control/services/gate_driver/src/gate_driver.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/services/gate_driver/CMakeFiles/gate_driver.dir/src/gate_driver.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/services/system_basis_chip/inc -o services/system_basis_chip/CMakeFiles/system_basis_chip.dir/src/system_basis_chip.c.o -c /home/A/A/Programming/C/motor_control/services/system_basis_chip/src/system_basis_chip.c",
+  "file": "/home/A/A/Programming/C/motor_control/services/system_basis_chip/src/system_basis_chip.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/services/system_basis_chip/CMakeFiles/system_basis_chip.dir/src/system_basis_chip.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/hal/adc/inc -I/home/A/A/Programming/C/motor_control/common/. -I/home/A/A/Programming/C/motor_control/hal/gpio/inc -I/home/A/A/Programming/C/motor_control/hal/pwm/inc -I/home/A/A/Programming/C/motor_control/hal/spi/inc -I/home/A/A/Programming/C/motor_control/hal/can/inc -I/home/A/A/Programming/C/motor_control/services/gate_driver/inc -I/home/A/A/Programming/C/motor_control/services/system_basis_chip/inc -I/home/A/A/Programming/C/motor_control/app/scheduler/inc -I/home/A/A/Programming/C/motor_control/app/timer/inc -I/home/A/A/Programming/C/motor_control/app/tasks/inc -o app/CMakeFiles/motor_control.dir/main.c.o -c /home/A/A/Programming/C/motor_control/app/main.c",
+  "file": "/home/A/A/Programming/C/motor_control/app/main.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/app/CMakeFiles/motor_control.dir/main.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/app/scheduler/inc -I/home/A/A/Programming/C/motor_control/common/. -I/home/A/A/Programming/C/motor_control/app/timer/inc -o app/scheduler/CMakeFiles/scheduler.dir/src/scheduler.c.o -c /home/A/A/Programming/C/motor_control/app/scheduler/src/scheduler.c",
+  "file": "/home/A/A/Programming/C/motor_control/app/scheduler/src/scheduler.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/app/scheduler/CMakeFiles/scheduler.dir/src/scheduler.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/app/tasks/inc -I/home/A/A/Programming/C/motor_control/common/. -I/home/A/A/Programming/C/motor_control/app/timer/inc -I/home/A/A/Programming/C/motor_control/app/scheduler/inc -o app/tasks/CMakeFiles/tasks.dir/src/tasks.c.o -c /home/A/A/Programming/C/motor_control/app/tasks/src/tasks.c",
+  "file": "/home/A/A/Programming/C/motor_control/app/tasks/src/tasks.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/app/tasks/CMakeFiles/tasks.dir/src/tasks.c.o"
+},
+{
+  "directory": "/home/A/A/Programming/C/motor_control/build",
+  "command": "/usr/bin/cc -I/home/A/A/Programming/C/motor_control/app/timer/inc -o app/timer/CMakeFiles/timer.dir/src/timer.c.o -c /home/A/A/Programming/C/motor_control/app/timer/src/timer.c",
+  "file": "/home/A/A/Programming/C/motor_control/app/timer/src/timer.c",
+  "output": "/home/A/A/Programming/C/motor_control/build/app/timer/CMakeFiles/timer.dir/src/timer.c.o"
+}
+]

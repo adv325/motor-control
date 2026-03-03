@@ -1,0 +1,5 @@
+add_subdirectory(gpio)
+add_subdirectory(adc)
+add_subdirectory(can)
+add_subdirectory(pwm)
+add_subdirectory(spi)
