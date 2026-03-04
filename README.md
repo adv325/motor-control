@@ -34,10 +34,14 @@ motor_control/
 │ ├── scheduler/
 │ └── tasks/
 ├── bsp/
-├── core/
 ├── common/
+├── core/
 ├── drivers/
 ├── hal/
+├── safety/
+├── services/
+├── state_machine/
+├── tests/
 ├── CMakeLists.txt
 └── README.md
 ```
